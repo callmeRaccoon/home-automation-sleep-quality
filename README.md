@@ -33,7 +33,7 @@ This project is designed to **increase sleep quality** at night by **automatical
 
 
 ## 📊 **Board Pinouts-PCB Schematic**
-
+![Board Pinouts-PCB Schematic](schematic%20view.png)
 ## 📊 **Picture of the Prototype**
 Below is an image of the actual **hardware prototype**:
 ![Prototype Image](prototype.jpg)
