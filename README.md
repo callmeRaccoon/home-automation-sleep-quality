@@ -34,17 +34,18 @@ This project is designed to **increase sleep quality** at night by **automatical
 
 ## 📊 **Board Pinouts-PCB Schematic**
 
-## 📊 **Pictures of the Prototype**
-
+## 📊 **Picture of the Prototype**
+Below is an image of the actual **hardware prototype**:
+![Prototype Image](prototype.jpg)
 
 ## 📊 **System Diagram**
 Below is the **system architecture** and **working principle**:
 
 ### **1️⃣ System Block Diagram**
-![System Block Diagram](Diagrams/Başlıksız%20Diyagram.drawio.png)
+![Project Block Diagram](project%20block%20diagram.png)
 
 ### **2️⃣ Code Flow Diagram**
-![Code Flow](Diagrams/CODE.drawio.png)
+![Code Flow](code%20flow%20diagram.png)
 
 ## 🛠️ **Installation & Usage**
 1. Upload **`master.ino`** to the **first ESP8266**.
